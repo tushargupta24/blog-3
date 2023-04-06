@@ -19,7 +19,8 @@
     },
     {
       "id":"blog-3",
-       "onlyheadinglinksanotherpage" : "https://cbse.gov.in"
+       "onlyheadinglinksanotherpage" : "https://cbse.gov.in",
+       "heading" : "What is your name"
     },
     {
       "id" : "blog-3",
